@@ -63,5 +63,6 @@
 <br />
 
 ![Notepad](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif)
-
+![Explorer](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif)
+![Frames](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif)
 </div>
