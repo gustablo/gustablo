@@ -32,7 +32,7 @@
 </td>
 <td align="center">
 <a href="https://medium.com/gustabin">
-<strong>Follow me on medium/strong><br />
+<strong>Follow me on medium</strong><br />
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
