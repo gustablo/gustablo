@@ -4,7 +4,7 @@
   <br />
   <br />
 
-  <p><strong>My name is Livio Brunner and I like Node.js, TypeScript and Dogs.</strong></p>
+  <p><strong>My name is Gustavo Pinheiro and I like Node.js, TypeScript and Dogs.</strong></p>
 
   <br />
 
@@ -14,8 +14,8 @@
 <table width="100%">
 <tr>
 <td align="center">
-<a href="https://brunnerliv.io">
-<strong>Visit my personal website </strong>
+<!-- <a href="https://brunnerliv.io"> -->
+<strong>Visit my personal website (under maintenance)</strong>
 <br />
 <br />
 
@@ -31,8 +31,8 @@
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>    
 </td>
 <td align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/new?template=Guestbook_entry.md">
-<strong>Write into my guest book</strong><br />
+<a href="https://medium.com/gustabin">
+<strong>Follow me on medium/strong><br />
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -58,7 +58,7 @@
 <br />
 <br />
 
-![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/gustablo/count.svg)
 
 <br />
 
