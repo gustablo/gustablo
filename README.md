@@ -4,7 +4,7 @@
   <br />
   <br />
 
-  <p><strong>My name is Gustavo Pinheiro and I like Node.js, TypeScript and Dogs.</strong></p>
+  <p><strong>My name is Gustavo Pinheiro</strong></p>
 
   <br />
 
